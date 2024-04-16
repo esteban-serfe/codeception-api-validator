@@ -1,5 +1,5 @@
 {
-    "name": "awuttig/codeception-api-validator",
+    "name": "esteban-serfe/codeception-api-validator",
     "description": "Validate API Requests and Responses against Swagger / OpenAPI definitions",
     "authors": [
         {
